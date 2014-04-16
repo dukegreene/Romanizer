@@ -1,0 +1,13 @@
+The Romanizer®
+
+This program asks for an integer between 1 and 3000 and then
+spits out the Roman numeral version of that number, using the
+new-school (4 != IIII; 4 == IV') notation. 
+
+I made it to get more comfortable with the integer division and modulus methods. I also learned a lot about getting my parentheticals straight.
+
+To use the program, just enter an integer when asked. If it's outside the acceptable range, you'll be gently reprimanded and asked again.
+
+This is the first Readme I've ever written. I don't know what else to say. So I'll stop.
+
+- Duke
